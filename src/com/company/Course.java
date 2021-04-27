@@ -5,6 +5,7 @@ public class Course {
         this.courseId=courseId;
         this.courseName=courseName;
         this.courseDetail=courseDetail;
+        this.teacher=teacher;
         this.courseRemaingPercentage=courseRemaingPercentage;
     }
     int courseId;
